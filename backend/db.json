@@ -1,0 +1,63 @@
+{
+    "new-posts": [{
+        "id": 1,
+        "thumb": "https://data.whicdn.com/images/353198269/original.jpg?t=1613413957",
+        "title": "Monday Motivation",
+        "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here.",
+        "hearts": 16501,
+        "link": "#",
+        "user": {
+            "profile": "https://data.whicdn.com/avatars/13431676/profile.png?t=1528298948",
+            "name": "TeamWeHeartIt"
+        }
+    }, {
+        "id": 2,
+        "thumb": "https://data.whicdn.com/images/353121676/original.jpg?t=1613162552",
+        "title": "Showcase LOVE-ly",
+        "description": "You may be planning a more casual Valentine’s Day this year. If you’re celebrating at home with your squad or other half, there are many ways to",
+        "hearts": 3566,
+        "link": "#",
+        "user": {
+            "profile": "https://data.whicdn.com/avatars/13431676/profile.png?t=1528298948",
+            "name": "TeamWeHeartIt"
+        }
+    }, {
+        "id": 3,
+        "thumb": "https://data.whicdn.com/images/353095772/original.jpg?t=1613077858",
+        "title": "Cozy (Yet Show)",
+        "description": "You may be planning a more casual Valentine’s Day this year. If you’re celebrating at home with your squad or other half, there are many ways to dr...",
+        "hearts": 11000,
+        "link": "#",
+        "user": {
+            "profile": "https://data.whicdn.com/avatars/13431676/profile.png?t=1528298948",
+            "name": "TeamWeHeartIt"
+        }
+    }],
+    "notifications": [{
+            "id": 1,
+            "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
+            "link": "#",
+            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+        }, {
+            "id": 2,
+            "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
+            "link": "#",
+            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+        }, {
+            "id": 3,
+            "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
+            "link": "#",
+            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+        },
+        {
+            "id": 4,
+            "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
+            "link": "#",
+            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+        }
+    ],
+    "userLogin": [{
+        "name": "nathanael Cruz",
+        "thumb": "https://data.whicdn.com/avatars/66746919/profile.jpg?t=1609890354"
+    }]
+}
