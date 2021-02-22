@@ -13,6 +13,7 @@ Não foi feito o processo de responsividade, somente o layout para desktop, pois
 
 ## Técnologias envolvidas
  - Next.JS
+ - Typescript
  - Redux
  - ESLint
  - Prettier
