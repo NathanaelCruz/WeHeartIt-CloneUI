@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/store/profile/action.js", "src/context/state.js", "src/store/reducers/postReducer.js", "src/store/reducers/postReducer.js"  ],
   "exclude": [
     "node_modules"
   ]

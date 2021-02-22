@@ -35,28 +35,34 @@
     }],
     "notifications": [{
             "id": 1,
+            "type": "COLLECTION",
             "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
             "link": "#",
-            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+            "description": "Hope you all had a Valentine’s Day "
         }, {
             "id": 2,
-            "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
-            "link": "#",
-            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+            "type": "USERS",
+            "profile": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
+            "name": "Lorena Maciel",
+            "menssage": "criou uma nova coleção:",
+            "collection": "lit: Sadie"
         }, {
             "id": 3,
+            "type": "COLLECTION",
             "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
             "link": "#",
-            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+            "description": "knownasjomocci"
         },
         {
             "id": 4,
+            "type": "COLLECTION",
             "thumb": "https://data.whicdn.com/images/353158214/superthumb.jpg?t=1613291528",
             "link": "#",
-            "description": "Hope you all had a Valentine’s Day full of l♡ve! This week's Monday Motivation is here."
+            "description": "Hope you all had "
         }
     ],
     "userLogin": [{
+        "id": 1000,
         "name": "nathanael Cruz",
         "thumb": "https://data.whicdn.com/avatars/66746919/profile.jpg?t=1609890354"
     }]
